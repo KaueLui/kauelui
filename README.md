@@ -1,7 +1,7 @@
 ### Prazer, Kauê 👋
 
-- 😄 tenho 21 anos!
-- 🏠 Pernambuco - Brazil
+- 😄 tenho 22 anos!
+- 🏠 Pernambuco - Brasil
 
 <div align="center">
   <a href="https://github.com/kauelui">
