@@ -1,6 +1,6 @@
 ### Prazer, Kauê 👋
 
-- 😄 tenho 22 anos!
+- 😄 tenho 23 anos!
 - 🏠 Pernambuco - Brasil
 
 <div align="center">
