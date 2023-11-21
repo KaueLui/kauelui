@@ -11,7 +11,7 @@
 💬 Email: kauelui.dev@gmail.com
 
 <div align="center">
-  <img src="https://media.giphy.com/media/tuCFp8rod0x3O/giphy.gif" width="700" height="300"/>
+  <img src="https://media.giphy.com/media/T7Qx28nEdo9NK/giphy.gif" width="700" height="220"/>
 </div>
 ---
 
