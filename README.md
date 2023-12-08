@@ -10,9 +10,6 @@
 
 💬 Email: kauelui.dev@gmail.com
 
-<div align="center">
-  <img src="https://media.giphy.com/media/T7Qx28nEdo9NK/giphy.gif" width="700" height="220"/>
-</div>
 ---
 
 ## 🚀 Minhas Skills
@@ -25,6 +22,7 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" alt="Laravel"/></code>
 <code><img height="32" src="https://imgs.search.brave.com/XMKRyYpA1n75pckJPcxeojR9cgqlIY8DvZNLfk9aVIg/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8x/LzFiL1N2ZWx0ZV9M/b2dvLnN2Zw.svg" alt="Svelte"/></code>
 
 ---
@@ -40,11 +38,16 @@
 
 ---
 
-## ⭐ Informações sobre minha conta GitHub
+<div align="center">
+  <img src="https://media.giphy.com/media/T7Qx28nEdo9NK/giphy.gif" width="723" height="220"/>
+</div>
 
+## ⭐ Informações sobre minha conta GitHub
 
 <div align="center">
   <a href="https://github.com/kauelui">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauelui&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauelui&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
+
