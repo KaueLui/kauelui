@@ -38,15 +38,11 @@
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/T7Qx28nEdo9NK/giphy.gif" width="723" height="220"/>
-</div>
-
 ## ⭐ Informações sobre minha conta GitHub
 
-<div align="center">
+<div>
   <a href="https://github.com/kauelui">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauelui&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauelui&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>‎‎
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauelui&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
