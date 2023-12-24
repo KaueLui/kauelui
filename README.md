@@ -40,6 +40,7 @@
 <!--   <a href="https://www.youtube.com/channel/UCMXlJGRzqOORp1v_S02KJ9w" target="_blank"><img align="left" src="https://www.svgrepo.com/svg/475700/youtube-color.svg" width="25px"/></a> -->
   <a href="https://instagram.com/kuelui" target="_blank"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" width="25px"/></a>
   <a href = "kauelui.dev@gmail.com"><img align="center" src="https://www.svgrepo.com/show/349379/gmail-old.svg" alt="Yu Shi | LinkedIn" width="25px"/></a>
+    <br/>
   <a href="www.linkedin.com/kauelui" target="_blank"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" width="25px"/></a>
   
 </div>
