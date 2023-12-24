@@ -40,7 +40,6 @@
 <!--   <a href="https://www.youtube.com/channel/UCMXlJGRzqOORp1v_S02KJ9w" target="_blank"><img align="left" src="https://www.svgrepo.com/svg/475700/youtube-color.svg" width="25px"/></a> -->
   <a href="https://instagram.com/kuelui" target="_blank"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" width="25px"/></a>
   <a href = "kauelui.dev@gmail.com"><img align="center" src="https://www.svgrepo.com/show/349379/gmail-old.svg" alt="Yu Shi | LinkedIn" width="25px"/></a>
-    <br/>
   <a href="www.linkedin.com/kauelui" target="_blank"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" width="25px"/></a>
   
 </div>
@@ -51,7 +50,8 @@
 
 <div>
   <img height="180em" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=kauelui&count_private=true&theme=dark&border_radius=10" alt="streak stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauelui&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>‎‎
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauelui&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+        <br/>‎‎
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauelui&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
