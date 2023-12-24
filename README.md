@@ -1,49 +1,58 @@
-## 🏴‍☠️ Olá, meu nome é <strong>{Kauê}!</strong>
 
-> Take heart. When going get stuff, call for Braum.
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kauê+Luí!;" />
+</h1>
+<h3 align="center"> Take heart. When going get stuff, call for Braum. </h3>
 
-♏ Tenho 23 anos
-
-🏠 Igarassu - Pernambuco - Brasil
-
-💻 Sistemas para Internet (IFPE)
-
-💬 Email: kauelui.dev@gmail.com
-
----
-
-## 🚀 Minhas Skills
-
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" alt="Laravel"/></code>
-<code><img height="32" src="https://imgs.search.brave.com/XMKRyYpA1n75pckJPcxeojR9cgqlIY8DvZNLfk9aVIg/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8x/LzFiL1N2ZWx0ZV9M/b2dvLnN2Zw.svg" alt="Svelte"/></code>
-
----
-
-## ⭐ Redes sociais
-
-<div> 
-  <a href="https://www.youtube.com/channel/UCMXlJGRzqOORp1v_S02KJ9w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/kuelui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "ofckaue@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/kauelui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
-
----
-
-## ⭐ Informações sobre minha conta GitHub
+<br/>
 
 <div>
-  <a href="https://github.com/kauelui">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauelui&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>‎‎
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauelui&layout=compact&langs_count=7&theme=dark"/>
+  
+♏ I'm 23 years old
+
+🏠 I am Brazilian, born and raised in Igarassu in the state of Pernambuco.
+
+💻 Currently studying "Sistemas para Internet" at "IFPE".
+ 
+🌱 I’m currently learning **React**
+
+⚡ Curiosity **I'm in love with One Piece**
+
+💬 Email: kauelui.dev@gmail.com
 </div>
+
+<hr/>
+
+## 🚀 Languages-Frameworks-Tools
+<br/>
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,svelte" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,java,nextjs,mysql,php" /><br>
+</div>
+
+
+---
+<h2>⭐ Social media </h2>
+<!-- ## ⭐ Redes sociais -->
+
+<div align="center"> 
+<!--   <a href="https://www.youtube.com/channel/UCMXlJGRzqOORp1v_S02KJ9w" target="_blank"><img align="left" src="https://www.svgrepo.com/svg/475700/youtube-color.svg" width="25px"/></a> -->
+  <a href="https://instagram.com/kuelui" target="_blank"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" width="25px"/></a>
+  <a href = "kauelui.dev@gmail.com"><img align="center" src="https://www.svgrepo.com/show/349379/gmail-old.svg" alt="Yu Shi | LinkedIn" width="25px"/></a>
+  <a href="www.linkedin.com/kauelui" target="_blank"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" width="25px"/></a>
+  
+</div>
+
+---
+<h2>⚡ Information about my GitHub account </h2>
+<!-- ## ⭐ Information about my GitHub account -->
+
+<div>
+  <img height="180em" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=kauelui&count_private=true&theme=dark&border_radius=10" alt="streak stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauelui&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>‎‎
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauelui&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
 
 
