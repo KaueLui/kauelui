@@ -23,8 +23,8 @@
     ├── /social media
     │   ├── /instagram
     │   │   └── @kuelui
-    │   ├── /instagram
-    │   │   └── @kuelui
+    │   ├── /twitter
+    │   │   └── @barkovlr
     │   └── /behance
     │       └── behance.net/kauelui
     │
