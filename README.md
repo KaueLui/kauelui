@@ -4,10 +4,9 @@
        <img src="https://github.com/KaueLui/kauelui/blob/main/image.jpg" alt="Image" style="width: 200%; border: none;"/>
     </td>
     <td style="width: 50%; vertical-align: top;">
-      <p style="font-family: Montserrat; font-size: 48px;">
-       
-    Kauê Luí
+      <p style="font-family: Montserrat; font-size: 16px;">
 
+    Kauê Luí
 </p>
 
     /About_Me
