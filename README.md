@@ -16,7 +16,7 @@
     │   ├── brazilian, born and raised in igarassu in the state of pernambuco.
     │   ├── currently studying "Sistemas para Internet" at "IFPE".
     │   ├── i'm passionate about anime, especially one piece
-    │   ├── /being part of @mangolab-dev
+    │   ├── /being part of @timeless-inc
     │   ├── /graphic design at @vaLLLorant
     │   └── /kauelui.dev@gmail.com
     │
@@ -31,6 +31,7 @@
     ├── /languages
     │   ├── javascript
     │   ├── java
+    │   └── (studying)
     │   ├── lua
     │   ├── typescript
     │   ├── /python
