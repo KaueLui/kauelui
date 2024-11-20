@@ -15,9 +15,9 @@
     │   ├── he/him
     │   ├── brazilian, igarassu - pernambuco.
     │   ├── studying "Sistemas para Internet" at "IFPE".
-    │   ├── i'm passionate about anime, especially one piece
-    │   ├── /being part of @timeless-inc
-    │   ├── /graphic design at @vaLLLorant
+    │   ├── i'm passionate about anime, especially one piece.
+    │   ├── /being part of @timeless-inc.
+    │   ├── /graphic design at @vaLLLorant.
     │   └── /kauelui.dev@gmail.com
     │
     ├── /social media
