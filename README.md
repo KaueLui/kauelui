@@ -13,8 +13,8 @@
     │
     ├── /bio
     │   ├── he/him
-    │   ├── brazilian, born and raised in igarassu in the state of pernambuco.
-    │   ├── currently studying "Sistemas para Internet" at "IFPE".
+    │   ├── brazilian, igarassu - pernambuco.
+    │   ├── studying "Sistemas para Internet" at "IFPE".
     │   ├── i'm passionate about anime, especially one piece
     │   ├── /being part of @timeless-inc
     │   ├── /graphic design at @vaLLLorant
