@@ -31,10 +31,8 @@ frameworks
 - [vaLLLorant](https://x.com/vaLLLorant/media)
 - [Timeless](https://github.com/Timeless-inc)
 
-<div align="center" class="margin-top: auto" >
   <img src="https://github-profile-trophy.vercel.app?username=KaueLui&theme=matrix&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KaueLui&radius=16&theme=chartreuse-dark&area=true&order=5&custom_title=My%20Contribution%20Graph" height="450" alt="activity-graph graph"  />
-</div>
 
 <div align="center">
   <p>Thanks for visiting! Check out my repositories and feel free to suggest a partnership.</p>
